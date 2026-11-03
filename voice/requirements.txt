@@ -1,0 +1,18 @@
+transformers>=4.57
+accelerate
+bitsandbytes
+torch
+torchvision
+librosa
+soundfile
+faster-whisper
+kokoro>=0.9
+gradio>=5
+datasets
+# VoiceBench scorers
+loguru
+langdetect
+nltk
+immutabledict
+absl-py
+qa_metrics

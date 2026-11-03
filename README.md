@@ -7,8 +7,12 @@ Claude Code: claude mcp add agentlab -e OPENROUTER_API_KEY=$OPENROUTER_API_KEY -
 Codex: add [mcp_servers.agentlab] to ~/.codex/config.toml (see site).
 Colab: open agentlab_colab.ipynb.
 
+## Voice agent (09)
+- voice/: talk to Gemma 4 E4B locally (Whisper + Kokoro), English, free Colab T4. Open voice/voice_colab.ipynb. Benchmarked on VoiceBench with its own scorers.
+
 ## Eval projects
 - evals/decision-models: Sarvam Prism vs Jev vs other decision models (see its README and SOURCES.md)
+- voice/bench.py: Gemma 4 voice agent on VoiceBench, native vs cascade vs hybrid listening
 
 ## Site
 - site/index.html is the agentlab page (deployed on Vercel).
