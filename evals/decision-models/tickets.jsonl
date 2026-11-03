@@ -1,0 +1,20 @@
+{"state": "I was charged twice for my Pro plan this month. Please refund one.", "team": "billing", "urgent": true}
+{"state": "The app crashes every time I open the settings page on Android 15.", "team": "tech", "urgent": false}
+{"state": "My order #4412 says delivered but nothing arrived at my door.", "team": "delivery", "urgent": true}
+{"state": "Can I change the card my subscription is billed to?", "team": "billing", "urgent": false}
+{"state": "Checkout has been down for all customers for 30 minutes, we are losing sales.", "team": "tech", "urgent": true}
+{"state": "When will my parcel to Pune be shipped? It has been pending for 4 days.", "team": "delivery", "urgent": false}
+{"state": "Mera payment do baar cut gaya, please paisa wapas karo.", "team": "billing", "urgent": true}
+{"state": "Login OTP is not arriving on my phone, I cannot access my account.", "team": "tech", "urgent": true}
+{"state": "The courier left my package with the neighbour, that is fine, just letting you know.", "team": "delivery", "urgent": false}
+{"state": "Your invoice PDF shows the wrong GST number for my company.", "team": "billing", "urgent": false}
+{"state": "Dark mode text is hard to read on the dashboard.", "team": "tech", "urgent": false}
+{"state": "The box arrived crushed and the glass inside is broken.", "team": "delivery", "urgent": true}
+{"state": "I cancelled last week but was still charged today. This is the third time I am writing.", "team": "billing", "urgent": true}
+{"state": "Export to CSV gives a 500 error, JSON export still works.", "team": "tech", "urgent": false}
+{"state": "Tracking has not updated since it left the Mumbai hub on Monday.", "team": "delivery", "urgent": false}
+{"state": "माझे पेमेंट अयशस्वी झाले पण खात्यातून पैसे कापले गेले.", "team": "billing", "urgent": true}
+{"state": "The API returns 429 errors even though we are under our plan limit, production is blocked.", "team": "tech", "urgent": true}
+{"state": "Can you deliver to a PO box address?", "team": "delivery", "urgent": false}
+{"state": "Do you offer an annual plan discount?", "team": "billing", "urgent": false}
+{"state": "Password reset link says expired immediately after I click it.", "team": "tech", "urgent": false}
